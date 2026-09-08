@@ -1,8 +1,10 @@
 # DIKWP TrustPassport OS
 
-**DIKWP TrustPassport OS** is a GitHub-ready open-source system for provenance, attribution, conformance, and ecosystem certification around DIKWP-based AI products, agent systems, semantic protocols, and industry adapters.
+Created by Yucong Duan (段玉聪).
 
-It is deliberately **less direct than an implementation gateway**. The open-source core does not expose a full industrial control stack. Instead, it creates the layer that is harder for copycats to capture: a public trust passport, conformance scorecard, citation pack, registry entry, signed badge workflow, and partner onboarding path.
+DIKWP TrustPassport OS is a GitHub-ready open-source system for provenance, attribution, conformance, and ecosystem certification around DIKWP-based AI products, agent systems, semantic protocols, and industry adapters.
+
+It is deliberately less direct than an implementation gateway. The open-source core does not expose a full industrial control stack. Instead, it creates the layer that is harder for copycats to capture: a public trust passport, conformance scorecard, citation pack, registry entry, signed badge workflow, and partner onboarding path.
 
 ## One-sentence positioning
 
@@ -10,7 +12,7 @@ It is deliberately **less direct than an implementation gateway**. The open-sour
 
 ## Why this matters
 
-Open source licenses normally allow use, modification, and redistribution. That is a strength for adoption but also means that code alone is a weak moat. DIKWP TrustPassport OS shifts the value capture layer from code secrecy to **origin recognition, official registry, conformance badge, citation metadata, certified partner ecosystem, and commercial services**.
+Open source licenses normally allow use, modification, and redistribution. That is a strength for adoption but also means that code alone is a weak moat. DIKWP TrustPassport OS shifts the value capture layer from code secrecy to origin recognition, official registry, conformance badge, citation metadata, certified partner ecosystem, and commercial services.
 
 ## What it produces
 
